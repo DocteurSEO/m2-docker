@@ -13,3 +13,6 @@ Ce projet a pour but de te montrer comment lancer un conteneur Docker avec une p
 4. Construis ton conteneur Docker en utilisant la commande appropriée. Assure-toi que ton Dockerfile spécifie correctement toutes les dépendances nécessaires pour exécuter ton application.
 
 5. Lance ton conteneur Docker en utilisant la commande `docker run`. Assure-toi que ton application est accessible dans un navigateur web 
+
+## 📝 Rendu Attendu
+Dockerfile

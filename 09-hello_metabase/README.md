@@ -6,3 +6,7 @@ Parfait 👌! Si tu es arrivé jusqu'ici, tu dois comprendre **Docker** et `dock
  crée un petit `docker-compose` pour démarrer. 
 
 Consulte la documentation 📖 pour plus d'informations : [Metabase Documentation](https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker).
+
+
+## 📝 Rendu Attendu
+un Screenshot de Metabase

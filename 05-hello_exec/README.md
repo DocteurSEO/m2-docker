@@ -31,3 +31,6 @@ Trouver le nombre de personnes de plus de 30 ans.
 ````
 PS : merci d'utiliser ton cerveau et non ChatGPT.
 ````
+
+## 📝 Rendu Attendu
+Dockerfile + les lignes de commandes

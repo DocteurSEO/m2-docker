@@ -3,3 +3,6 @@ Oh oh problémo 😕: tu as une application node qui utilise un contenaire de ba
 Sachant qu'un contenaire est isolé... 🤔 Débrouille-toi !
 
  L'application devrait renvoyer les noms dans la table "personnes".
+
+ ## 📝 Rendu Attendu
+ Dockerfile et/ou Docker-compose
