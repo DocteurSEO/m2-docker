@@ -8,5 +8,5 @@ sub caesar_decrypt($input, $code) {
 
 my $code = prompt "What's the secret code? :\n";
 
-say "https://www.youtube.com/@";
+print("https://www.youtube.com/@");
 say caesar_decrypt("0,>DA4/0:", $code); 
