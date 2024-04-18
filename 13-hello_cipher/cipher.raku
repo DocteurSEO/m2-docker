@@ -1,7 +1,3 @@
-#sub caesar_encrypt($input, $code) {
-#    $input.comb.map({ chr( ( (.ord - 32 + $code) % 95) + 32) }).join('');
-#}
-
 sub caesar_decrypt($input, $code) {
     $input.comb.map({ chr( ( (.ord - 32 - $code) % 95) + 32) }).join('');
 }
